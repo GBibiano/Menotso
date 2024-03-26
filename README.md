@@ -2,12 +2,12 @@
 
 <br>
 
-## Minha experiência:
+## Minha experiência: <br>
 🌐 Tenho experiência em trabalhar com Excel, Python, SQL e suas bibliotecas para Ciência de Dados <br>
 📚 Estou estudando Big Data e Inteligência Analítica na UNIASSELVI (Centro Universitário Leonardo da Vinci) <br>
 📧 Quer entrar em contato comigo? Envie um e-mail para guilherme.bibiano.santos@gmail.com <br>
 <br>
-## Sobre mim:
+## Sobre mim: <br>
 E aí! Me chamo Guilherme, tenho 22 anos, estudante de Big Data e Inteligência Analítica no Centro Universitário Leonardo da Vinci e estou migrando de carreira atualmente para a área de Ciência de Dados.
 <br>
 ## Hard Skills:
@@ -15,7 +15,7 @@ E aí! Me chamo Guilherme, tenho 22 anos, estudante de Big Data e Inteligência 
 - SQL (SQL Server, MySQL, PostgreSQL)
 - Estatística descritiva e inferencial voltado para análise de dados
 <br>
-## Soft Skills:
+## Soft Skills: <br>
 - Proatividade
 - Foco
 - Comunicativo
