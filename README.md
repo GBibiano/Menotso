@@ -10,23 +10,23 @@
 ## Sobre mim: <br>
 E aí! Me chamo Guilherme, tenho 22 anos, estudante de Big Data e Inteligência Analítica no Centro Universitário Leonardo da Vinci e estou migrando de carreira atualmente para a área de Ciência de Dados.
 <br>
-## Hard Skills:
-- Python (pandas, numpy, matplotlib, seaborn)
-- SQL (SQL Server, MySQL, PostgreSQL)
-- Estatística descritiva e inferencial voltado para análise de dados
+## Hard Skills: <br>
+- Python (pandas, numpy, matplotlib, seaborn) <br>
+- SQL (SQL Server, MySQL, PostgreSQL) <br>
+- Estatística descritiva e inferencial voltado para análise de dados <br>
 <br>
 ## Soft Skills: <br>
-- Proatividade
-- Foco
-- Comunicativo
-- Trabalho em equipe
-- Autodidata
+- Proatividade <br>
+- Foco <br>
+- Comunicativo <br>
+- Trabalho em equipe <br>
+- Autodidata <br>
 <br>
-Sobre idiomas, sou natural e fluente em português e possuo inglês avançado.
+Sobre idiomas, sou natural e fluente em português e possuo inglês avançado. <br>
 <br>
-Após o curso Técnico em Administração e 4 anos trabalhando administrativamente na Marinha, me apaixonei por ciência de dados. Pude iniciar um curso superior na área e me encontro no terceiro período de um total de cinco.
+Após o curso Técnico em Administração e 4 anos trabalhando administrativamente na Marinha, me apaixonei por ciência de dados. Pude iniciar um curso superior na área e me encontro no terceiro período de um total de cinco. <br>
 <br>
-Consigo prever problemas correlacionados às tarefas que me são incumbidas. Minha experiência trabalhando em navios de guerra me proporcionou controle emocional e postura adequada a ambientes profissionais desafiadores.
+Consigo prever problemas correlacionados às tarefas que me são incumbidas. Minha experiência trabalhando em navios de guerra me proporcionou controle emocional e postura adequada a ambientes profissionais desafiadores. <br>
 <br>
 ## Redes: <br>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/guilherme-bibiano/) <br>
@@ -40,4 +40,4 @@ Consigo prever problemas correlacionados às tarefas que me são incumbidas. Min
 ![Excel](https://img.shields.io/badge/Excel-000?style=for-the-badge&logo=microsoftexcel&logoColor=3CB371) <br>
 <br>
 ## Ferramentas mais utilizadas: <br>
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Menotso&bg_color=000&border_color=30A3DC&title_color=R94D5F&text_color=fff)
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Menotso&bg_color=000&border_color=30A3DC&title_color=R94D5F&text_color=fff) <br>
