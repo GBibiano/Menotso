@@ -31,7 +31,6 @@ Consigo prever problemas correlacionados às tarefas que me são incumbidas. Min
 ## Redes:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/guilherme-bibiano/)
 [![Instagram](https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram)](https://www.instagram.com/bibiano.ds/)
-[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@guilherme.bibiano.santos)
 [![Discord](https://img.shields.io/badge/Discord-000?style=for-the-badge&logo=discord)](https://discord.com/users/226839699275120642)
 ## Habilidades
 ![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python)
