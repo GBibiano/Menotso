@@ -29,10 +29,10 @@ Após o curso Técnico em Administração e 4 anos trabalhando administrativamen
 Consigo prever problemas correlacionados às tarefas que me são incumbidas. Minha experiência trabalhando em navios de guerra me proporcionou controle emocional e postura adequada a ambientes profissionais desafiadores.
 <br>
 ## Redes:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/guilherme-bibiano/) <br>
-[![Instagram](https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram)](https://www.instagram.com/bibiano.ds/) <br>
-[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@guilherme.bibiano.santos) <br>
-[![Discord](https://img.shields.io/badge/Discord-000?style=for-the-badge&logo=discord)](https://discord.com/users/226839699275120642) <br>
+![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/guilherme-bibiano/) <br>
+![Instagram](https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram)](https://www.instagram.com/bibiano.ds/) <br>
+![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@guilherme.bibiano.santos) <br>
+![Discord](https://img.shields.io/badge/Discord-000?style=for-the-badge&logo=discord)](https://discord.com/users/226839699275120642) <br>
 <br>
 ## Habilidades
 ![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python) <br>
