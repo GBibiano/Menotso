@@ -6,7 +6,7 @@
 📧 Quer entrar em contato comigo? Envie um e-mail para guilherme.bibiano.santos@gmail.com  
 
 ## Sobre mim:
-E aí! Me chamo Guilherme, tenho 22 anos, estudante de Big Data e Inteligência Analítica no Centro Universitário Leonardo da Vinci e estou migrando de carreira atualmente para a área de Ciência de Dados.
+E aí! Me chamo Guilherme, tenho 23 anos, estudante de Big Data e Inteligência Analítica no Centro Universitário Leonardo da Vinci e estou migrando de carreira atualmente para a área de Ciência de Dados.
 
 ## Hard Skills:
 - Python (pandas, numpy, matplotlib, seaborn)  
