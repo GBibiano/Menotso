@@ -2,29 +2,29 @@
 
 ## Minha experiência:
 🌐 Tenho experiência em trabalhar com Excel, Python, SQL e suas bibliotecas para Ciência de Dados  
-📚 Estou estudando Big Data e Inteligência Analítica na UNIASSELVI (Centro Universitário Leonardo da Vinci)  
+📚 Formado em Big Data e Inteligência Analítica na UNIASSELVI (Centro Universitário Leonardo da Vinci)  
 📧 Quer entrar em contato comigo? Envie um e-mail para guilherme.bibiano.santos@gmail.com  
 
 ## Sobre mim:
-E aí! Me chamo Guilherme, tenho 23 anos, estudante de Big Data e Inteligência Analítica no Centro Universitário Leonardo da Vinci e estou migrando de carreira atualmente para a área de Ciência de Dados.
+E aí! Me chamo Guilherme, tenho 24 anos, formado na área de Ciência de Dados pela UNIASSELVI e estou migrando de carreira atualmente para a área de Ciência de Dados.
 
 ## Hard Skills:
-- Python (pandas, numpy, matplotlib, seaborn)  
-- SQL (SQL Server, MySQL, PostgreSQL)  
-- Estatística descritiva e inferencial voltado para análise de dados  
+- Python (pandas, numpy, matplotlib, seaborn, scikit-learn);
+- SQL (SQL Server, MySQL, PostgreSQL);
+- Estatística descritiva e inferencial voltado para análise de dados.
 
 ## Soft Skills:
-- Proatividade  
-- Foco  
-- Comunicativo  
-- Trabalho em equipe  
-- Autodidata  
+- Proatividade;
+- Foco;
+- Comunicativo;
+- Trabalho em equipe;
+- Autodidata.
 
-Sobre idiomas, sou natural e fluente em português e possuo inglês avançado.  
+Sobre idiomas, sou natural e fluente em português e possuo inglês avançado.
 
-Após o curso Técnico em Administração e 4 anos trabalhando administrativamente na Marinha, me apaixonei por ciência de dados. Pude iniciar um curso superior na área e me encontro no terceiro período de um total de cinco.  
+Após o curso Técnico em Administração e 4 anos trabalhando administrativamente na Marinha, me apaixonei por ciência de dados. Pude iniciar um curso superior na área e me encontro desenvolvendo projetos e ampliando o portifolio.  
 
-Consigo prever problemas correlacionados às tarefas que me são incumbidas. Minha experiência trabalhando em navios de guerra me proporcionou controle emocional e postura adequada a ambientes profissionais desafiadores.  
+Consigo prever problemas correlacionados às tarefas que me são incumbidas. Minha experiência trabalhando em navios de guerra me proporcionou controle emocional e postura adequada a ambientes profissionais desafiadores.
 
 ## Redes:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/guilherme-bibiano/)  
