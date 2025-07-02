@@ -6,7 +6,11 @@
 📧 Quer entrar em contato comigo? Envie um e-mail para guilherme.bibiano.santos@gmail.com  
 
 ## Sobre mim:
-E aí! Me chamo Guilherme, tenho 24 anos, formado na área de Ciência de Dados pela UNIASSELVI e estou migrando de carreira atualmente para a área de Ciência de Dados.
+E aí! Me chamo Guilherme, tenho 24 anos, formado na área de Ciência de Dados pela UNIASSELVI e estou migrando de carreira com o objetivo de me tornar Engenheiro de Machine Learning.
+
+Projetos desenvolvidos:
+- Classificação de inadimplentes na concessão de crédito bancário (aborda deploy do modelo com endpoint em FastAPI);
+- Segmentação de clientes visando marketing direcionado (algortimos de machine learning não supervisionados).
 
 ## Hard Skills:
 - Python (pandas, numpy, matplotlib, seaborn, scikit-learn);
